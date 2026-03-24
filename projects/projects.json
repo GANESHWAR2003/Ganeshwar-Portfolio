@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Career Path Recommendation System",
+    "desc": "A Career Path Recommendation System is a smart application that helps users choose the best career based on their skills, interests, and goals",
+    "image": "cprs",
+    "links": {
+      "code": "https://github.com/GANESHWAR2003/Customer-Support-Chatbot-Using-LLM.git"
+    }
+  },
+  {
+    "name": "Advanced Computational Techniques Identification",
+    "desc": "This project demonstrates an AI-driven system designed to detect fraudulent financial transactions in real time. By combining machine learning, anomaly detection, and deep learning techniques, the system analyzes transaction patterns and assigns a fraud risk score. The interactive dashboard visualizes live transaction data, alerts, and behavioral insights, providing a modern fintech security solution.",
+    "image": "fraud",
+    "links": {
+      "code": "https://github.com/GANESHWAR2003/Advanced-Computational-Techniques-Identification.git"
+    }
+  },
+  {
+    "name": "Customer Support Chatbot Using LLM",
+    "desc": "AI-powered chatbot using Large Language Models to automate customer support with accurate, real-time, and context-aware responses.",
+    "image": "supportchatbot",
+    "links": {
+      "code": "https://github.com/GANESHWAR2003/Customer-Support-Chatbot-Using-LLM.git"
+    }
+  }
+]
